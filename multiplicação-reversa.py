@@ -1,3 +1,5 @@
+#codigo pensado e escrito por: André Nalin Chrisostomo
+#Este programa basicamente faz uma multiplicação inversa, ou seja, ao invés de dar dois numeros para multiplicar e retornar um resultado, o programa permite você dar um resultado e o programa mostrar todas as multiplicações possíveis para retornar o número
 from random import randint 
 
 
