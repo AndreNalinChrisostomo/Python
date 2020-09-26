@@ -1,2 +1,2 @@
 # Python
-Programas escritos na linguagem Python
+Programas escritos (por mim) na linguagem Python
