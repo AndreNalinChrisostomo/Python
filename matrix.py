@@ -1,3 +1,8 @@
+#código escrito e pensado por: André Nalin Chrisostomo
+
+#Código simples para calcular a multiplicação de duas matrizes expecíficas 
+#O código pode estar meio confuso porque eu o criei em uma época onde eu não tinha conhecimento de funções e não quis mexer no código para não resultar em problemas
+
 colunaA = []
 colunaB = []
 colunaC = []
